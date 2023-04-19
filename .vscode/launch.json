@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "f5anything",
+      "request": "launch",
+      "name": "Deploy dev",
+      "command": "devops/scripts/deploy-dev.sh",
+      "terminalIndex": -1,
+      "terminalName": "Deploy dev",
+    },
+  ]
+}
